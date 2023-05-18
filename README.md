@@ -1,4 +1,6 @@
-### This repo contains the custom energy measurement tool and power cap profiler from Stefano De Feo's master's thesis: "Towards Sustainable Machine Learning Through GPU Power Capping"
+# Towards Sustainable Machine Learning Through GPU Power Capping
+
+### This repo contains the custom energy measurement tool and power cap profiler from my master's thesis: "Towards Sustainable Machine Learning Through GPU Power Capping".
 
 # Requirements:
 
